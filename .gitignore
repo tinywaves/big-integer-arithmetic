@@ -1,0 +1,90 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+biginteger
+*.exe~
+*.out~
+
+# Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~.nib
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# File result outputs (optional - uncomment if you don't want to track result files)
+# file/result_*.txt
